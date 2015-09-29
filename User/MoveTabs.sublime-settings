@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+alt+super+left"], "command": "move_view", "args": {"direction": "left"} },
+    { "keys": ["ctrl+alt+super+right"], "command": "move_view", "args": {"direction": "right"} }
+]
