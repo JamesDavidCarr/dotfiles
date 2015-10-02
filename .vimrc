@@ -28,18 +28,19 @@ let g:ctrlp_regexp = 1
 let g:ctrlp_max_files=0
 let g:ctrlp_max_depth=40
 
-set nocompatible
-set ruler
+set background=dark
 set backspace=2
-set nu
-set incsearch
+set expandtab
 set hls
 set ignorecase
+set incsearch
+set nocompatible
+set nu
+set paste
+set ruler
+set shiftwidth=2
 set smartcase
-set background=dark
-set tabstop=4
-set shiftwidth=4
-set expandtab
+set tabstop=2
 
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
