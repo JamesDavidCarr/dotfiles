@@ -15,6 +15,7 @@ alias gam="gau && amend"
 alias gds="gd --stat"
 alias gcpc="git cherry-pick --continue"
 alias gcpa="git cherry-pick --abort"
+alias subl="sublime"
 
 alias lrt="ls -lrt"
 bindkey -s '^[3' \#

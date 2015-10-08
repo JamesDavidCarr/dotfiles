@@ -36,7 +36,6 @@ set ignorecase
 set incsearch
 set nocompatible
 set nu
-set paste
 set ruler
 set shiftwidth=2
 set smartcase
